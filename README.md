@@ -1,2 +1,2 @@
-# Responsive-navbar-2
+# responsive-navbar-1
 Created with CodeSandbox
